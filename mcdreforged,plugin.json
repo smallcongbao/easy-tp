@@ -1,0 +1,16 @@
+{
+    "id": "tp_people_and_items",
+    "version": "0.1.0",
+    "name": "Tp people And Items",
+    "description":  {
+		"en_us": "Transport people and items.",
+		"zh_cn": "tp玩家和运输物品"
+	},
+    "author": [
+        "congbao"
+    ],
+    "link": "https://github.com/smallcongbao/tppi",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1"
+    }
+}
