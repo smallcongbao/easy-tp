@@ -1,10 +1,10 @@
 {
-    "id": "tp_people_and_items",
+    "id": "easy_tp",
     "version": "0.1.0",
-    "name": "Tp people And Items",
+    "name": "easy tp",
     "description":  {
-		"en_us": "Transport people and items.",
-		"zh_cn": "tp玩家和运输物品"
+		"en_us": "A simple plugin for tp between the player.",
+		"zh_cn": "一个简单的用于玩家之间tp的插件。"
 	},
     "author": [
         "congbao"
